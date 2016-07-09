@@ -9,6 +9,7 @@ public class Calculando {
 <<<<<<< HEAD
 int aan;
 //apresentação IC
+//Andrio
 =======
 int AndrioElizandra;
 >>>>>>> 03f8774944352f518d075b96dd9a8937c98e1c1a
