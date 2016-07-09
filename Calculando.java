@@ -6,7 +6,7 @@ public class Calculando {
 		// TODO Auto-generated method stub
 		
 		
-int a;
+int AndrioElizandra;
 double v1;
 double v2;
 double total;
